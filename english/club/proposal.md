@@ -1,39 +1,39 @@
-# Proposal
+# 1. Proposal
 
 An English Club for everyone at NAB to enjoy through fun activities after working hours
 
-# Goals & Objectives
+# 2. Goals & Objectives
 
 1. Fun Interactive Games
-2. Learn with guidance and feedback from instructors
+2. Learn English with guidance and feedback from professional instructors
 3. Collaborate and promote teambuilding
 
-# Scope
+# 3. Scope
 
-| Scope    | Description          | Details                 |
-| -------- | -------------------- | ----------------------- |
-| Time     | Every other Thursday | 4:30pm - 6:00pm         |
-| Place    | ETown Central        | Room 10.4, 10.5, 10.6   |
-| Audience | Everyone at NICV     |                         |
-| Online   | Zoom                 | CURRENTLY NOT AVAILABLE |
+| Scope    | Description          | Details                              |
+| -------- | -------------------- | ------------------------------------ |
+| Time     | Every other Thursday | 4:30pm - 6:00pm                      |
+| Place    | ETown Central        | Room 10.4, 10.5, 10.6                |
+| Audience | Everyone at NICV     |                                      |
+| Online   | Zoom                 | ONLY available on **SPECIFIC** dates |
 
-# Resource Allocation
+# 4. Resource Allocation
 
-## Human Resources
+## 4.1. Human Resources
 
 | Role         | Name         | Description                    |
 | ------------ | ------------ | ------------------------------ |
 | Host/Teacher | Khang Nghiem | Host, manage and teach English |
 
-## Cost Estimate
+## 4.2. Cost Estimate
 
 | Area              | Item                | Estimated Cost        |
 | ----------------- | ------------------- | --------------------- |
-| Office Supplies   | Pen and Paper       | 1,000,000 VNĐ / month |
-| Activity Supplies | Activity equipments | 2,000,000 VNĐ / month |
-| Game Supplies     | Game equipments     | 2,000,000 VNĐ / month |
+| Office Supplies   | Pen and Paper       | 500,000 VNĐ / month   |
+| Activity Supplies | Activity equipments | 500,000 VNĐ / month   |
+| Game Supplies     | Game accessories    | 4,000,000 VNĐ / month |
 
-# Risk
+# 5. Risk
 
 | Risk                                       | Analysis                            | Evaluation | Mitigation                                                                                     |
 | ------------------------------------------ | ----------------------------------- | ---------- | ---------------------------------------------------------------------------------------------- |
