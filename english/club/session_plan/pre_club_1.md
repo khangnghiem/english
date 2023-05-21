@@ -4,14 +4,17 @@
 | ---------- | ---------------------------- |
 | Theme      | Move!                        |
 | Topic      | Position & Direction         |
-| Activity   | Blindman's Seeing-eye dog    |
+| Activity   | Blindfold Maze               |
 | Difficulty | Easy                         |
 | Objective  | Practice movement vocabulary |
 
 Move! No, not there! Yes!
 Time to put some language learning in action.
 
-# 2. Blindman's Seeing-eye dog
+# 2. Blindfold Maze
+
+How to play:
+[![Blindfold Maze](https://img.youtube.com/vi/l9pUBCdHnj0/0.jpg)](https://www.youtube.com/watch?v=l9pUBCdHnj0)
 
 - Two (or more) teams of participants
 - One member will get blindfolded
